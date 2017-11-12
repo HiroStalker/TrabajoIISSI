@@ -1,4 +1,5 @@
 // 10 tablas
 
-Casos | Clientes | Pagos | Empleados | Citas | Inventario |
+Casos | Clientes | Facturas | Empleados | Citas | Inventario |
  Despachos | Abogados | Secretarios | Laborales | Civiles 
+
