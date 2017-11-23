@@ -1,0 +1,10 @@
+1. Padre - 
+2. Hijo -
+3. Empleado - 
+4. Proveedor - 
+5. ClaseImpartida - 
+6. Factura - 
+7. Aulas -
+8. Material Informático -
+9. Kits de piezas - 
+10.Gastos - 
