@@ -1,0 +1,10 @@
+2ª Revisión 
+1. Cambiar la tabla gastos por la tabla Sueldo que este relacionada a empleados.
+2. Cambiar el "Padre" por "Usuario"
+3. Cambiar "Hijo" por "Alumno"
+4. Poner nombre a las relaciones para que sea de entendimiento global
+5. Quitar la linea de alumno
+6. RI -> Que sean 4 o 5 que relaciones las tablas
+7. Hacer "Merge" a Cliente Conflictivo y Moroso
+8. En las R.I. indicar la multiplicidad.
+9. Algunas reglas de negocio son reglas funcionales.
