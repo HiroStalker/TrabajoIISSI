@@ -1,0 +1,21 @@
+ToDO:
+
+1. Mejorar/Arreglar la anterior entrega.
+2.Modelo relacional en 3FN.
+	-Relaciones obtenidas al aplicar la transformación del 
+	 modelo conceptual.
+	-Justificación de la estrategia de transformación de 
+	 jerarquías (si se identificaron jerarquías en el MC).
+3.Modelo tecnológico.
+	-Listado de todo el codigo SQL y PL/SQL de Oracle
+	 siguiendo las recomendaciones de formato que se 
+	 proporcionarán al efecto.
+	-Scripts de creación de tablas, restricciones, secuencias,
+	 triggers asociados a la gestión de secuencias.
+	-Scripts de creación de funciones y procedimientos.
+	-Scripts de cursores y de listados de consultas.
+	-Script de creación de triggers no asociados a secuencias.
+	-Script de pruebas, que deban cubrir todo el codigo desarrollado.
+
+ENTREGA 14/1/2018
+DEFENSA 15-19/1/2018

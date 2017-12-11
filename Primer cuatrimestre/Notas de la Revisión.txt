@@ -8,3 +8,5 @@
 7. Hacer "Merge" a Cliente Conflictivo y Moroso
 8. En las R.I. indicar la multiplicidad.
 9. Algunas reglas de negocio son reglas funcionales.
+
+
