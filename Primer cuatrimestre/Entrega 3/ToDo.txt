@@ -2,6 +2,9 @@ ToDO:
 
 1. Mejorar/Arreglar la anterior entrega.
 2.Modelo relacional en 3FN.
+	*Mirar en los apuntes cuales son las bases de 
+	de la tercera forma normal, ya que pueden preguntarla 
+	en la defensa*
 	-Relaciones obtenidas al aplicar la transformación del 
 	 modelo conceptual.
 	-Justificación de la estrategia de transformación de 
