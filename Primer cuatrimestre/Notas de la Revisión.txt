@@ -1,6 +1,6 @@
 2ª Revisión 
-1. Cambiar la tabla gastos por la tabla Sueldo que este relacionada a empleados.
-2. Cambiar el "Padre" por "Usuario" /* Falta cambiar esto de las
+1. /* Done */ Cambiar la tabla gastos por la tabla Sueldo que este relacionada a empleados.
+2. /* Done */ Cambiar el "Padre" por "Usuario" /* Falta cambiar esto de las
 	diferentes recursos visuales UML, ect... */
 3. Cambiar "Hijo" por "Alumno" /* Falta cambiar esto de las
 	diferentes recursos visuales UML, ect... */
